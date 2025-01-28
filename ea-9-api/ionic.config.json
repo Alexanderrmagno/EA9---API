@@ -1,0 +1,7 @@
+{
+  "name": "EA9 - API",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
